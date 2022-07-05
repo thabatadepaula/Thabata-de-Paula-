@@ -1,5 +1,6 @@
 ## 👋 Hello! Welcome to my Github profile.
-![Beige Minimalist Profile LinkedIn Banner](https://user-images.githubusercontent.com/105953108/177396869-4b6b7263-2d9f-4bbb-83b4-28028a18e5a2.png)
+
+![Beige Minimalist Profile LinkedIn Banner](https://user-images.githubusercontent.com/105953108/177424744-faa9ebc3-85ac-4176-b73c-bea3a6c56228.png)
 
 ### I'm Thabata and I'm a Java Web Developer!
 ### Passionate about technology, I study information technology management and I'm the newest student at Generation's Java Bootcamp, I also love books and arts in general.
