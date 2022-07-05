@@ -5,6 +5,8 @@
 ### Passionate about technology, I study information technology management and I'm the newest student at Generation's Java Bootcamp, I also love books and arts in general.
 ### I love taking risks in digital arts and in new challenges. My goal is to train myself in systems development, to work on projects that help transform society, with sexual diversity, training and empowerment of peripheral women, fighting social and racial inequality. Together we are stronger!!
 
-### 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+###  Ferramentas e Tecnologias
+        
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"  width="40" height="40"/>
+       
           
