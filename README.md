@@ -7,6 +7,7 @@
 
 ###  Ferramentas e Tecnologias
         
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"  width="40" height="40"/>
-       
+     
+ 
           
+![canva-original](https://user-images.githubusercontent.com/105953108/177399775-2315ac9e-b360-4558-8914-34764f43f2fe.svg)
