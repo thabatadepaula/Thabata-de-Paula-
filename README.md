@@ -3,7 +3,7 @@
 ![Beige Minimalist Profile LinkedIn Banner](https://user-images.githubusercontent.com/105953108/177424744-faa9ebc3-85ac-4176-b73c-bea3a6c56228.png)
 
 ### I'm Thabata and I'm a Java Web Developer!
-### Passionate about technology, I study information technology management and I'm the newest student at Generation's Java Bootcamp, I also love books and arts in general.
+### Passionate about technology, I am studying Computer Science at Anhembi Morumbi University and I majored in the Web Development Bootcamp by Generation Brazil. I also love books and arts in general.
 ### I love taking risks in digital arts and in new challenges. My goal is to train myself in systems development, to work on projects that help transform society, with sexual diversity, training and empowerment of peripheral women, fighting social and racial inequality. Together we are stronger!!
 
   
