@@ -1,4 +1,4 @@
-## 👋 Hello! Welcome to my Github profile.
+## 👋 Hi there,
 
 ![Beige Minimalist Profile LinkedIn Banner](https://user-images.githubusercontent.com/105953108/177424744-faa9ebc3-85ac-4176-b73c-bea3a6c56228.png)
 
