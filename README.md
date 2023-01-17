@@ -1,6 +1,6 @@
 ## 👋 Hi there,
 
-![Beige Minimalist Profile LinkedIn Banner](https://user-images.githubusercontent.com/105953108/177424744-faa9ebc3-85ac-4176-b73c-bea3a6c56228.png)
+![Assinatura de email profissional engenharia civil marrom e branco (2)](https://user-images.githubusercontent.com/105953108/212999489-30f97901-454a-4001-8b9a-d56ee56bf664.png)
 
 ### I'm Thabata and I'm a Java Web Developer!
 ### Passionate about technology, I am studying Computer Science at Anhembi Morumbi University and I majored in the Web Development Bootcamp by Generation Brazil. I also love books and arts in general.
@@ -18,7 +18,7 @@
 ## 👩‍💻 Technologies and Tools I use:
       
       
- <div align="center">   
+ <div>   
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
@@ -27,7 +27,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>    
  <div>  
    
-<p align="center">
+<p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thabatadepaula&show_icons=true&layout=compact&theme=dark" />
 </a> 
