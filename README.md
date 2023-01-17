@@ -1,6 +1,7 @@
 ## 👋 Hi there,
 
-![Assinatura de email profissional engenharia civil marrom e branco (2)](https://user-images.githubusercontent.com/105953108/212999489-30f97901-454a-4001-8b9a-d56ee56bf664.png)
+![Assinatura de email profissional engenharia civil marrom e branco (3)](https://user-images.githubusercontent.com/105953108/213000352-c9fabfe9-3ce6-4e34-8c6c-8a8c9b9d89f2.png)
+
 
 ### I'm Thabata and I'm a Java Web Developer!
 ### Passionate about technology, I am studying Computer Science at Anhembi Morumbi University and I majored in the Web Development Bootcamp by Generation Brazil. I also love books and arts in general.
